@@ -1,7 +1,5 @@
 # Top 10 Reasons To Use Node.js
 
-![Header][Top 10 Reasons To Use Node.js]
-
 There are many great reasons to use Node.js, regardless of experience level. Take a look into what some of the greatest practical reasons are to use Node and why you should love it.
 
 I get it. You're not a bandwagon developer. You don't use the cool, trendy platform just because everyone else is. That's why you haven't looked seriously at [Node.js][1] yet. (Or your boss hasn't let you yet.) Well, it's time to look again. There are many great, practical reasons to use Node. Here are ten of them.
@@ -127,10 +125,9 @@ Yes, Node is trendy at the moment. This is web development, so next week Node ma
 [15]: https://modulus.io/
 [16]: https://scalenpm.nodejitsu.com/
 
-[Top 10 Reasons To Use Node.js]: img/12536ee45aee8142c046787aaee390c7f703753c.png
-[Node.js]: img/fdf6d06e8339206bcc244d8829b80293f7b2e939.png
-[supersonic jet]: img/4a020e2b06ef86c0953da6d0092fcd61d5323236.jpg
-[Node.js package manager]: img/56818ee2932a325ff4750d91dbe9f08e95f42876.png
-[Mongo]: img/0a42d93d3746257ef711b3adaebca39f19d6c02f.png
-[Meteor]: img/d4e552de5e6d5e97dc8f9523ba620c37063e3004.png
-[Modulus]: img/dc191a6df13cfd174e9cf5da3e6c6877f71bd12b.png
+[Node.js]: img/e939.png
+[supersonic jet]: img/3236.jpg
+[Node.js package manager]: img/2876.png
+[Mongo]: img/c02f.png
+[Meteor]: img/3004.png
+[Modulus]: img/d12b.png

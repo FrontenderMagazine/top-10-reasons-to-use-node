@@ -125,9 +125,9 @@ Node может считывать/записывать потоки в WebSocke
 [15]: https://modulus.io/
 [16]: https://scalenpm.nodejitsu.com/
 
-[Node.js]: img/fdf6d06e8339206bcc244d8829b80293f7b2e939.png
-[сверхзвуковой реактивный самолёт]: img/4a020e2b06ef86c0953da6d0092fcd61d5323236.jpg
-[пакетный менеджер Node.js]: img/56818ee2932a325ff4750d91dbe9f08e95f42876.png
-[Mongo]: img/0a42d93d3746257ef711b3adaebca39f19d6c02f.png
-[Meteor]: img/d4e552de5e6d5e97dc8f9523ba620c37063e3004.png
-[Modulus]: img/dc191a6df13cfd174e9cf5da3e6c6877f71bd12b.png
+[Node.js]: img/e939.png
+[сверхзвуковой реактивный самолёт]: img/3236.jpg
+[пакетный менеджер Node.js]: img/2876.png
+[Mongo]: img/c02f.png
+[Meteor]: img/3004.png
+[Modulus]: img/d12b.png
