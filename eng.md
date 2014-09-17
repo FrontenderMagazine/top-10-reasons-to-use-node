@@ -128,6 +128,6 @@ Yes, Node is trendy at the moment. This is web development, so next week Node ma
 [Node.js]: img/e939.png
 [supersonic jet]: img/3236.jpg
 [Node.js package manager]: img/2876.png
-[Mongo]: img/c02f.png
+[Mongo]: img/c02f.jpeg
 [Meteor]: img/3004.png
 [Modulus]: img/d12b.png
