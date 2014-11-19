@@ -216,6 +216,13 @@ Walmart, Microsoft, Yahoo, Paypal, Voxer и другие.
 объект всеобщего внимания (возможно им станет Go или Elixir?). Однако 
 попробовать его вам всё же стоит.
 
+<section class="gratitude-block gratitude-block-ok">
+  <a title="Ссылка на блог компании" href="http://weareok.ru/">
+    <img src="img/ok.svg" alt="Логотип компании «Одноклассники»">
+  </a>
+  <p>Статья переведена благодаря спонсорской поддержке компании «<a title="Ссылка на блог компании" href="http://weareok.ru/">Одноклассники</a>».</p>
+</section>
+
 [1]: http://nodejs.org/
 [2]: https://angularjs.org/
 [3]: http://emberjs.com/
